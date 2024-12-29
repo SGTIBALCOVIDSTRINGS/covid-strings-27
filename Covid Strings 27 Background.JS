@@ -3,7 +3,7 @@ script
 filename=covidstrings27background.js
 java.awt graphics 
 this.img=document.createelement(covid)
-img.src=http://www.google.com/intl/en_com/images/Logo_plain.png
+img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
 <div id=header></div>
