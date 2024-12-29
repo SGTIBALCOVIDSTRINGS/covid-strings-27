@@ -75,13 +75,13 @@ even+if+its+not+it+can+help+make+chronic+fatigue+syndrome+demand+more+attention
 covid+toe+might+be+a+side+effect+of+the+immune+response+to+covid
 symptoms+like+fever+still+havent+changed+from+the+beginning+of+the+pandemic
 you+should+be+careful+however+with+taking+over+the+counter+medications+though]
-covid strings multiple choicelist27=[1:A Victims B Patients C A Bugatti V16  D Effect On2022 Social Security Projections,2:A Catalysts B The Kremlin Didnt Benefit From Trumps Presidency C Enzymes D Cancer Cells ]
-covid strings27 math problems list=[if a line on covid and self care has a slope of3  and a y intercept of5 what would the y point be if the x point is6?,if the covid point (6,23) Was Reflected Across The X Axis What Would The New Point Be?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated180 Degrees What Is The New Point?,If The Previous Point Was Translated18 Units Up And6 Units To The Left What Is The New Point?,If The Previous Point Was Translated12Units To The Right And23Units Up What Is The New Point?,If The Previous Point Was Translated7 Units To The Right And5Units Up What Is The New Point?,If The Previous Point Was Translated5 Units To The Left And Units 2.5 Units Up What Is The New Point?,If+A+Poll+Shows+That+47+Percent+Believe+Self+Care+Is+A+Way+To+Help+Deal+With+Covid+What+Percent,If+10+Percent+Strongly+Believe+What+Percent+Is+Mild,If+The+Margin+Of+Error+Is+5.33+Percent+What+Is+The+Range?,If+61+Percent+Are+Skeptical+Of+Reports+Saying+Long+Covid+Is+Chronic+Fatigue+Syndrome+What+Percent+Arent?,If+45+Percent+Are+Mild+What+Percent+Is+Strong?,If+The+Margin+Of+Error+Is+3.28+Percent+What+Is+The+Range?]
+covid strings multiple choicelist27=[1:a victims b patients c a bugatti v16  d effect on2022 social security projections,2:a catalysts b the kremlin didnt benefit from Trumps Presidency C Enzymes D Cancer Cells ]
+covid strings27 math problems list=[if a line on covid and self care has a slope of3  and a y intercept of5 what would the y point be if the x point is6?,if the covid point (6,23) Was Reflected Across The X Axis What Would The New Point Be?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated180 Degrees What Is The New Point?,If The Previous Point Was Translated18 Units Up And6 Units To The Left What Is The New Point?,If The Previous Point Was Translated12Units To The Right And23Units Up What is the new point?,if the previous point was translated7 units to the right and5units up what is the new point?,if the previous point was translated5 units to the left and 2.5 units up what is the new point?,if+a+poll+shows+that+47+percent+believe+self+care+is+a+way+to+help+deal+with+covid+what+percent,if+10+percent+strongly+believe+what+percent+is+mild,if+the+margin+of+error+is+5.33+percent+what+is+the+range?,if+61+percent+are+skeptical+of+reports+saying+long+covid+is+chronic+fatigue+syndrome+what+percent+arent?,if+45+percent+are+mild+what+percent+is+strong?,if+the+margin+of+error+is+3.28+percent+what+is+the+range?]
 covid strings scrambled phrase list27=[ovicd+ramkersoib,ovicd+gib+ote]
 userin.select team
 import meta.
 class myclass
-constructor (Non-Concatenated)
+constructor (non-concatenated)
 return category
 if category==Math Problem:
 prompt
@@ -94,10 +94,10 @@ if category==math problem:
 prompt
 log
 else:
-Select From Multiple Choice
-Import Syntax
-Chart JS 
-If Function1.Slope==0:
+select from multiple choice
+import syntax
+chart js 
+if function1.slope==0:
 Return No Relationship
 Else:
 Return Direct Or Inverse
