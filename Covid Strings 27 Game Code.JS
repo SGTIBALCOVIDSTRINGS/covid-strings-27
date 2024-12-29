@@ -75,15 +75,15 @@ even+if+its+not+it+can+help+make+chronic+fatigue+syndrome+demand+more+attention
 covid+toe+might+be+a+side+effect+of+the+immune+response+to+covid
 symptoms+like+fever+still+havent+changed+from+the+beginning+of+the+pandemic
 you+should+be+careful+however+with+taking+over+the+counter+medications+though]
-covid strings multiple choicelist27=[1:a victims b patients c a bugatti v16  d effect on2022 social security projections,2:a catalysts b the kremlin didnt benefit from Trumps Presidency C Enzymes D Cancer Cells ]
-covid strings27 math problems list=[if a line on covid and self care has a slope of3  and a y intercept of5 what would the y point be if the x point is6?,if the covid point (6,23) Was Reflected Across The X Axis What Would The New Point Be?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The New Point?,If The Previous Point Was Rotated180 Degrees What Is The New Point?,If The Previous Point Was Translated18 Units Up And6 Units To The Left What Is The New Point?,If The Previous Point Was Translated12Units To The Right And23Units Up What is the new point?,if the previous point was translated7 units to the right and5units up what is the new point?,if the previous point was translated5 units to the left and 2.5 units up what is the new point?,if+a+poll+shows+that+47+percent+believe+self+care+is+a+way+to+help+deal+with+covid+what+percent,if+10+percent+strongly+believe+what+percent+is+mild,if+the+margin+of+error+is+5.33+percent+what+is+the+range?,if+61+percent+are+skeptical+of+reports+saying+long+covid+is+chronic+fatigue+syndrome+what+percent+arent?,if+45+percent+are+mild+what+percent+is+strong?,if+the+margin+of+error+is+3.28+percent+what+is+the+range?]
+covid strings multiple choicelist27=[1:a victims b patients c a bugatti v16  d effect on2022 social security projections,2:a catalysts b the kremlin didnt benefit from trumps presidency c enzymes d cancer cells,3:a biomarkers b positive reviews of jd vances biography cdiy  nasal swabs d corpses,4:a brain fog b heart attack c toe d bungee jumping,5:a 9/11 b covid c trump assassination d white supremacist,6:a every six months b annually c biannually d triennially,7:a thanksgiving b christmas c putins home  d halloween,8:a post traumatic b chronic fatigue c sleep paralysis  d alzheimers,9:a fauci b phil c oz d francis collins,10:a chronic b a one night stand c short-term d twister,11:a blinking b faint c radioactive d fireball,12:a shortness of breath b the feeling of dying c fever d hallucinations,13:a gle b clg c glg d glc,14:a black market b counter c freezer d street corner,15:a ron desantis b kanye west c vivek ramaswamy d joe biden ]
+covid strings27 math problems list=[if a line on covid and self care has a slope of3  and a y intercept of5 what would the y point be if the x point is6?,if the covid point (6,23) was reflected across the x axis what would the new point be?,if the previous point was rotated270 degrees clockwise what is the new point?,if the previous point was rotated180 degrees what is the new point?,if the previous point was translated18 units up and6 units to the left what is the new point?,if the previous point was translated12units to the right and23units up what is the new point?,if the previous point was translated7 units to the right and5units up what is the new point?,if the previous point was translated5 units to the left and 2.5 units up what is the new point?,if+a+poll+shows+that+47+percent+believe+self+care+is+a+way+to+help+deal+with+covid+what+percent,if+10+percent+strongly+believe+what+percent+is+mild,if+the+margin+of+error+is+5.33+percent+what+is+the+range?,if+61+percent+are+skeptical+of+reports+saying+long+covid+is+chronic+fatigue+syndrome+what+percent+arent?,if+45+percent+are+mild+what+percent+is+strong?,if+the+margin+of+error+is+3.28+percent+what+is+the+range?]
 covid strings scrambled phrase list27=[ovicd+ramkersoib,ovicd+gib+ote]
 userin.select team
 import meta.
 class myclass
 constructor (non-concatenated)
 return category
-if category==Math Problem:
+if category==math problem:
 prompt
 log
 else:
@@ -98,43 +98,43 @@ select from multiple choice
 import syntax
 chart js 
 if function1.slope==0:
-Return No Relationship
-Else:
-Return Direct Or Inverse
-Def Gradient
-Id=MyGradient
-GradientUnits=UserSpaceOnUse
-X1=0
-Y1=5
-X2=6
-Y2=X2*3+5
-Stop Offset=0 Stop-Color=FF0000
-Stop Offset=1 Stop Color=0000FF
-<LinearGradient>
-<Filter
-Id=Linear1
-FilterUnits=Objectboundingbox
-X=0%
-Y=0%
-Width=100%
-Height=100%
-<FeComponentTransfer>
-<FefuncCovidStrings  Type=Linear Slope>=1
-TransformationList=[Reflection,Rotation,Translation]
-If Reflection==X Axis:
-Shift X Axis
-Else:
-Shift Y Axis
-If Rotation==X Degrees Clockwise:
-Shift X Degrees 
-Else:
-Shift X Degrees Counterclockwise
-If Translation==X Units:
-Shift
-Else:
-Remain
-If Selectedanswer==Correct:
-Return True
-Else:
-Return False
+return no relationship
+else:
+return direct or inverse
+def gradient
+id=mygradient
+gradientunits=userspaceonuse
+x1=0
+y1=5
+x2=6
+y2=x2*3+5
+stop offset=0 stop-color=ff0000
+stop offset=1 stop color=0000ff
+<lineargradient>
+<filter
+id=linear1
+filterunits=objectboundingbox
+x=0%
+y=0%
+width=100%
+height=100%
+<fecomponenttransfer>
+<fefunccovidstrings  type=linear slope>=1
+transformationlist=[reflection,rotation,translation]
+if reflection==x axis:
+shift x axis
+else:
+shift y axis
+if rotation==x degrees clockwise:
+shift x degrees 
+else:
+shift x degrees counterclockwise
+if translation==x units:
+shift
+else:
+remain
+if selectedanswer==correct:
+return true
+else:
+return false
 return filename
