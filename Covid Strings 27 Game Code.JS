@@ -22,6 +22,13 @@ override
 public actionperformed(actionevent e)
 random r=newrandom();
 colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
+num teams
+total players=players per team
+if players per team=zero
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
@@ -125,16 +132,40 @@ if reflection==x axis:
 shift x axis
 else:
 shift y axis
-if rotation==x degrees clockwise:
-shift x degrees 
-else:
-shift x degrees counterclockwise
-if translation==x units:
-shift
+if rotation==270 degrees clockwise:
+shift 270 degrees 
 else:
 remain
+if rotation==180 degrees
+shift 180 degrees
+else
+remain
+if translation==(-6,18):
+shift6 units left and 18 units up
+else:
+remain
+if translation==(12,23)
+shift 12 units right and 23 units up
+if translation==(7,5)
+shift 7 units right and 5 units up
+if translation==(-5,2.5)
+shift 5 units left and 2.5 units up
 if selectedanswer==correct:
 return true
 else:
 return false
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet) 
 return filename
