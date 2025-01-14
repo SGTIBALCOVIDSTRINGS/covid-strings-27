@@ -1,21 +1,21 @@
 doc.type.html
 script
-filename=covidstrings27gamecode.js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=documentgetelementbyid(header)
 src.appendchild(this.img)
+filename=covidstrings27gamecode.js
+java.awt graphics 
 <div id=header></div>
-jbutton random button
-new jbutton (set random color)
+random button
+new button (set random color)
 private final j button option button=
 new j button (change color)
 public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
-jpanel button panel=
-new j panel (flowlayout.center)
+color panel=new j panel();
+add (panel,center )
+button panel
+new panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
@@ -40,7 +40,7 @@ this.add(buttonpanel,borderlayout.south)
 public static main(string [] args)
 jframe f = new covid strings27()
 f.set title(covid strings27)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
@@ -56,7 +56,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -65,26 +65,26 @@ object {A:1,B:2,C:3,D:4,E:5,F:6,G:7,H:8}
 keys object keys(team)
 entries object entries(obj);
 value object=[team color]
-covid strings team list27=[magenta,turquoise,white,burgundy,black,green,yellow,indigo]
-covid strings phrase list27=[ non-concatenated self-regulation is one way in which long covid patients can recover
-this type of covid self-care is one interesting way in which celebrities are just like us
-one surprising fact is when dr.fauci says the lab leak theory does have credulity
-a faint line on a covid test though does not mean you are infected
-even you have a massive amount of covid it would not come out as glc
-neither would it detect someone like vivek ramaswamy changing their position on covid
-some biomarkers can help detect long covid
+covid strings team list27=[magenta magnetizers ,turquoise waves ,white transit angels ,burgundy rebuilders,black night riders,green peacemakers,yellow moxie,indigo isos]
+covid strings phrase list27=[ non-concatenated "self-regulation is one way in which long covid patients can recover"
+"this type of covid self-care is one interesting way in which celebrities are just like us"
+"one surprising fact is when dr.fauci says the lab leak theory does have credulity"
+"a faint line on a covid test though does not mean you are infected"
+"even you have a massive amount of covid it would not come out as glc"
+"neither would it detect someone like vivek ramaswamy changing their position on covid"
+"some biomarkers can help detect long covid"
 concatenated strings
-specifically+they+involve+covid+making+antibodies+that+act+like+enzymes
-perhaps+this+is+another+reason+for+why+getting+covid+vaccines+annually+is+good+policy
-christmas+in+a+small+town+is+one+escape+for+anyone+who+may+have+covid+fatigue+syndrome
-maybe+long+covid+is+just+another+way+to+talk+about+chronic+fatigue+syndronme
-even+if+its+not+it+can+help+make+chronic+fatigue+syndrome+demand+more+attention
-covid+toe+might+be+a+side+effect+of+the+immune+response+to+covid
-symptoms+like+fever+still+havent+changed+from+the+beginning+of+the+pandemic
-you+should+be+careful+however+with+taking+over+the+counter+medications+though]
+"specifically"+"they"+"involve"+"covid"+"making"+"antibodies"+"that"+"act"+"like"+"enzymes"
+"perhaps"+"this"+"is"+"another"+"reason"+"for"+"why"+"getting"+"covid"+"vaccines"+"annually"+"is"+"good"+"policy"
+"christmas"+"in"+"a"+"small"+"town"+"is"+"one"+"escape"+"for"+"anyone"+"who"+"may"+"have"+"covid"+"fatigue"+"syndrome"
+"maybe"+"long"+"covid"+"is"+"just"+"another"+"way"+"to"+"talk"+"about"+"chronic"+"fatigue"+"syndronme"
+"even"+"if"+"its"+"not"+"it"+"can"+"help"+"make"+"chronic"+"fatigue"+"syndrome"+"demand"+"more"+"attention"
+"covid"+"toe"+"might"+"be"+"a"+"side"+"effect"+"of"+"the"+"immune"+"response"+"to"+"covid"
+"symptoms"+"like"+"fever"+"still"+"havent"+"changed"+"from"+"the"+"beginning"+"of"+"the"+"pandemic"
+"you"+"should"+"be"+"careful"+"however"+"with"+"taking"+"over"+"the"+"counter"+"medications"+"though"]
 covid strings multiple choicelist27=[1:a victims b patients c a bugatti v16  d effect on2022 social security projections,2:a catalysts b the kremlin didnt benefit from trumps presidency c enzymes d cancer cells,3:a biomarkers b positive reviews of jd vances biography cdiy  nasal swabs d corpses,4:a brain fog b heart attack c toe d bungee jumping,5:a 9/11 b covid c trump assassination d white supremacist,6:a every six months b annually c biannually d triennially,7:a thanksgiving b christmas c putins home  d halloween,8:a post traumatic b chronic fatigue c sleep paralysis  d alzheimers,9:a fauci b phil c oz d francis collins,10:a chronic b a one night stand c short-term d twister,11:a blinking b faint c radioactive d fireball,12:a shortness of breath b the feeling of dying c fever d hallucinations,13:a gle b clg c glg d glc,14:a black market b counter c freezer d street corner,15:a ron desantis b kanye west c vivek ramaswamy d joe biden ]
 covid strings27 math problems list=[if a line on covid and self care has a slope of3  and a y intercept of5 what would the y point be if the x point is6?,if the covid point (6,23) was reflected across the x axis what would the new point be?,if the previous point was rotated270 degrees clockwise what is the new point?,if the previous point was rotated180 degrees what is the new point?,if the previous point was translated18 units up and6 units to the left what is the new point?,if the previous point was translated12units to the right and23units up what is the new point?,if the previous point was translated7 units to the right and5units up what is the new point?,if the previous point was translated5 units to the left and 2.5 units up what is the new point?,if+a+poll+shows+that+47+percent+believe+self+care+is+a+way+to+help+deal+with+covid+what+percent,if+10+percent+strongly+believe+what+percent+is+mild,if+the+margin+of+error+is+5.33+percent+what+is+the+range?,if+61+percent+are+skeptical+of+reports+saying+long+covid+is+chronic+fatigue+syndrome+what+percent+arent?,if+45+percent+are+mild+what+percent+is+strong?,if+the+margin+of+error+is+3.28+percent+what+is+the+range?]
-covid strings scrambled phrase list27=[ovicd+ramkersoib,ovicd+gib+ote]
+covid strings scrambled phrase list27=["ovicd"+"ramkersoib","ovicd"+"gib"+"ote"]
 userin.select team
 import meta.
 class myclass
@@ -158,7 +158,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -168,4 +168,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings27
+console log users team wins covid strings27 
+else
+return game over
 return filename
