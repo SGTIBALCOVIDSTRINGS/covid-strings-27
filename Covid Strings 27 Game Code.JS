@@ -141,15 +141,15 @@ if rotation(6,23)==180 degrees
 shift 180 degrees
 else
 remain
-if translation==(-6,18):
+if translation(-6,-23)==(-6,18):
 shift6 units left and 18 units up
 else:
 remain
-if translation==(12,23)
+if translation(-12,-5)==(12,23)
 shift 12 units right and 23 units up
-if translation==(7,5)
+if translation(0,18)==(7,5)
 shift 7 units right and 5 units up
-if translation==(-5,2.5)
+if translation(7,23)==(-5,2.5)
 shift 5 units left and 2.5 units up
 if selectedanswer==correct:
 return true
