@@ -1,7 +1,7 @@
-<doc.type.html>
-<script>
-Filename=Covid Strings27 Key Words.JS
-Covid Strings27 Key Word List=[Self Regulation,Covid Antibodies, Side Effect Covid Immune Response,Self Care,Covid Fatigue Syndrome Escape,Long Covid,100-61,Lab Leak Credibility,Fatigue Syndrome More Attention,Covid Test Line,Symptoms,Covid Amount Come Out As,Careful Taking Medications,Changing Covid Positions]
+doc.type.html
+script
+filename=covid strings27 key words.js
+covid strings27 key word list=[self regulation,covid antibodies,side effect covid immune response,self care,covid fatigue syndrome escape,long covid,100-61,lab leak Credibility,Fatigue Syndrome More Attention,Covid Test Line,Symptoms,Covid Amount Come Out As,Careful Taking Medications,Changing Covid Positions]
 String=””
 For String In Covid Strings Search Word List
 Select Characters
