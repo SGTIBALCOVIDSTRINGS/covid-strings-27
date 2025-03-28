@@ -1,67 +1,67 @@
 doc.type.html
 script
 filename=covid strings27 key words.js
-covid strings27 key word list=[self regulation,covid antibodies,side effect covid immune response,self care,covid fatigue syndrome escape,long covid,100-61,lab leak Credibility,Fatigue Syndrome More Attention,Covid Test Line,Symptoms,Covid Amount Come Out As,Careful Taking Medications,Changing Covid Positions]
-String=””
-For String In Covid Strings Search Word List
-Select Characters
-Edit Diffuse Property
-Desired Color=Green
-Covid Strings27 Reference List=[A:Long COVID Patients Report Improvements Following Self-Regulation Therapy,Study Finds (Msn.Com),B:COVID-19 Antibody Discovery Could Explain Long COVID (Msn.Com),C:COVID Toes: Symptoms, Causes, Treatment (Health.Com),D:What Is Self-Care And Why Is It Important? (Verywellhealth.Com),E:New Research Supports An Annual COVID Vaccine Plan (Msn.Com),F:Rob Thomas - Small Town Christmas Lyrics | AZLyrics.Com,G:Is Long COVID Really Chronic Fatigue Syndrome By Another Name? | Columbia University Mailman School Of Public Health,H:What Doctors Wish Patients Knew About Pandemic Fatigue | American Medical Association (Ama-Assn.Org),
-I:Long COVID Has Forced The U.S. To Take Chronic Fatigue Syndrome Seriously - The Atlantic,J:Fauci Admits To COVID-19 Failures, Says Lab Leak Is Credible (Msn.Com),K:Chronic Fatigue Offers Clues To Long COVID (Msn.Com),L:What Does A Faint Line On A Rapid COVID-19 Test Mean? (Msn.Com),M:What Is The Order Of COVID Symptoms This Fall? (Verywellhealth.Com),N:2024 Mercedes-Benz GLC-Class Review, Pricing,And Specs (Caranddriver.Com),O:The Latest Covid Guidance: Symptoms, Treatment And More - The New York Times (Nytimes.Com),P:Vivek Ramaswamy Has Changed His Position On Trump, COVID Vaccines (Cincinnati.Com)
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-A=Pc.CreateScript(A);
-A.Attributes.Add(Foobar,{Type:Entity});
-A.Prototype.Initialize =Function() 
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-B=Pc.CreateScript(B);
-B.Attributes.Add(Foobar,{Type:Entity});
-B.Prototype.Initialize =Function() 
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-C=Pc.CreateScript(C);
-C.Attributes.Add(Foobar,{Type:Entity});
-C.Prototype.Initialize =Function() 
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-C=Pc.CreateScript(C);
-C.Attributes.Add(Foobar,{Type:Entity});
-C.Prototype.Initialize =Function() 
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-D=Pc.CreateScript(D);
-D.Attributes.Add(Foobar,{Type:Entity});
-D.Prototype.Initialize =Function() 
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar=This Entity
-Entity Reparnet (This.Entity)
-E=Pc.CreateScript(E);
-E.Attributes.Add(Foobar,{Type:Entity});
-E.Prototype.Initialize =Function() 
+covid strings27 key word list=[self regulation,covid antibodies,side effect covid immune response,self care,covid fatigue syndrome escape,long covid,100-61,lab leak credibility,fatigue syndrome more attention,covid test line,symptoms,covid amount come out as,careful taking medications,changing covid positions]
+string=””
+for string in covid strings search word list
+select characters
+edit diffuse property
+desired color=green
+covid strings27 reference list=[a:long covid patients report improvements following self-regulation therapy,study finds (msn.com),b:covid-19 antibody discovery could explain long covid(msn.com),c:covid toes:symptoms,causes,treatment (health.com),d:what is self-care and why is it important? (verywellhealth.com),e:new research supports an annual covid vaccine plan (msn.com),f:rob thomas -small town christmas lyrics |azlyrics.com,g:is long covid really chronic fatigue syndrome by another name? |columbia university mailman school of public health,h:what doctors wish patients knew about pandemic fatigue |american medical association (ama-assn.org),
+i:long covid has forced the u.s. to take chronic fatigue syndrome seriously-the atlantic,j:fauci admits to covid-19 failures,says lab leak is credible (msn.com),k:chronic fatigue offers clues to long covid(msn.com),l:what does a faint line on a rapid covid-19 test mean? (msn.com),m:what is the order of covid symptoms this fall? (verywellhealth.com),n:2024 mercedes-benz glc-class review,pricing,and specs (caranddriver.com),o:the latest covid guidance:symptoms,treatment and more -the new york times (nytimes.com),p:vivek ramaswamy has changed his position on trump, covid vaccines (cincinnati.com)]
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+a=pc.create script(a);
+a.attributes.add(foobar,{type:entity});
+a.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+b=pc.create script(b);
+b.attributes.add(foobar,{type:entity});
+b.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
+c.attributes.add(foobar,{type:entity});
+c.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
+c.attributes.add(foobar,{type:entity});
+c.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+d=pc.create script(d);
+d.attributes.add(foobar,{type:entity});
+d.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+e=pc.create script(e);
+e.Attributes.Add(Foobar,{Type:Entity});
+e.Prototype.Initialize =Function() 
 Console.Log(This.Foobar.Name);
 Asset=This App.Assets.Find()
 Template Asset Resource 
